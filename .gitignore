@@ -181,3 +181,5 @@ cython_debug/
 .cursorindexingignore
 
 Random/
+.idea/Persona-Chatbot.iml
+
